@@ -1,0 +1,36 @@
+body{
+    background-color: pink;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.CuadroSup{
+    background-color: lightskyblue;
+    width: 35%;
+    height: 125px;
+    padding: 2%;
+    margin-left: 30%;
+    border-radius: 50px;
+}
+.Numero{
+    text-align: center;
+    height: 30px;
+    font-size: 20px;
+    border-radius: 50px;
+}
+.Calcular{
+    background-color: gold;
+    width: 50%;
+    height: 30px;
+    font-size: 20px;
+    margin-left: 25%;
+    border-radius: 50px;
+}
+.Mostrar{
+    background-color: lightcoral;
+    text-align: center;
+    width: 35%;
+    height: 500px;
+    padding: 2%;
+    margin-left: 30%;
+    border-radius: 50px;
+}
